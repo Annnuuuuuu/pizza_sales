@@ -1,9 +1,9 @@
 # pizza_sales
-#used pizza sales to run following queries
-Retrieve the total number of orders placed.
-Calculate the total revenue generated from pizza sales.
-List the top 5 most ordered pizza types along with their quantities.
+#used pizza sales to run following queries-
+#1.Retrieve the total number of orders placed.
+#2.Calculate the total revenue generated from pizza sales.
+#3.List the top 5 most ordered pizza types along with their quantities.
 
-Join the necessary tables to find the total quantity of each pizza category ordered.
-Determine the distribution of orders by hour of the day.
-Group the orders by date and calculate the average number of pizzas ordered per day.
+#4.Join the necessary tables to find the total quantity of each pizza category ordered.
+#5.Determine the distribution of orders by hour of the day.
+#6.Group the orders by date and calculate the average number of pizzas ordered per day.
